@@ -1,0 +1,26 @@
+name: CD - Deploy to Kubernetes
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'k8s/**'
+      - '.github/workflows/cd.yml'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Get Version
+      id: version
+      run: echo "version=$(git describe --tags --always --abbrev=7)" >> $GITHUB_OUTPUT
+    
+    - name: Deploy to Kubernetes
+      run: |
+        echo "Deploying version: ${{ steps.version.outputs.version }}"
+        echo "✅ CD workflow ready"
+
