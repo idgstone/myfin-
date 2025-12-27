@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-Designed and implemented a **production-grade cloud infrastructure** for MyFin Budget application following **Google Cloud, AWS, and Netflix's DevOps best practices**. The solution demonstrates:
+Designed and implemented a **production-grade cloud infrastructure** for MyFin Budget application 
 
 - ✅ **99.9% uptime architecture** with automatic pod recovery (< 10s)
 - ✅ **Zero-downtime deployments** using rolling updates
