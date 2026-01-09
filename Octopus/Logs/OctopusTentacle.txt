@@ -1,0 +1,121 @@
+2025-12-24 16:06:56.1201  135934      1  INFO  Tentacle version 8.3.3455 (8.3.3455) instance PerFin-Polling
+2025-12-24 16:06:56.1497  135934      1  INFO  Environment Information:
+  OperatingSystem: Ubuntu 22.04.5 LTS
+  OsBitVersion: x64
+  Is64BitProcess: True
+  CurrentUser: root
+  MachineName: DESKTOP-1FR4MTM
+  ProcessorCount: 12
+  CurrentDirectory: /home/idgstone/myfin-
+  TempDirectory: /tmp/
+  HostProcessName: Tentacle
+  PID: 135934
+2025-12-24 16:06:56.4146  135934      1  INFO  ==== CreateInstanceCommand ====
+2025-12-24 16:06:56.4146  135934      1  INFO  CommandLine: /opt/octopus/tentacle/Tentacle.dll create-instance --instance PerFin-Polling --config /etc/octopus/PerFin-Polling/tentacle-PerFin-Polling.config
+2025-12-24 16:06:56.4213  135934      1  INFO  Creating empty configuration file: /etc/octopus/PerFin-Polling/tentacle-PerFin-Polling.config
+2025-12-24 16:06:56.6281  135934      1  INFO  Saving instance: PerFin-Polling
+2025-12-24 16:06:56.6292  135934      1  INFO  Setting home directory to: /etc/octopus/PerFin-Polling
+2025-12-24 16:06:57.3685  135951      1  INFO  Tentacle version 8.3.3455 (8.3.3455) instance PerFin-Polling
+2025-12-24 16:06:57.3915  135951      1  INFO  Environment Information:
+  OperatingSystem: Ubuntu 22.04.5 LTS
+  OsBitVersion: x64
+  Is64BitProcess: True
+  CurrentUser: root
+  MachineName: DESKTOP-1FR4MTM
+  ProcessorCount: 12
+  CurrentDirectory: /home/idgstone/myfin-
+  TempDirectory: /tmp/
+  HostProcessName: Tentacle
+  PID: 135951
+2025-12-24 16:06:57.7925  135951      1  INFO  Changing log folder from Octopus/Logs to /etc/octopus/PerFin-Polling/Logs
+2025-12-24 16:06:59.7551  135969      1  INFO  Tentacle version 8.3.3455 (8.3.3455) instance PerFin-Polling
+2025-12-24 16:06:59.7718  135969      1  INFO  Environment Information:
+  OperatingSystem: Ubuntu 22.04.5 LTS
+  OsBitVersion: x64
+  Is64BitProcess: True
+  CurrentUser: root
+  MachineName: DESKTOP-1FR4MTM
+  ProcessorCount: 12
+  CurrentDirectory: /home/idgstone/myfin-
+  TempDirectory: /tmp/
+  HostProcessName: Tentacle
+  PID: 135969
+2025-12-24 16:06:59.9265  135969      1  INFO  Changing log folder from Octopus/Logs to /etc/octopus/PerFin-Polling/Logs
+2025-12-24 16:07:00.4526  135987      1  INFO  Tentacle version 8.3.3455 (8.3.3455) instance PerFin-Polling
+2025-12-24 16:07:00.4526  135987      1  INFO  Environment Information:
+  OperatingSystem: Ubuntu 22.04.5 LTS
+  OsBitVersion: x64
+  Is64BitProcess: True
+  CurrentUser: root
+  MachineName: DESKTOP-1FR4MTM
+  ProcessorCount: 12
+  CurrentDirectory: /home/idgstone/myfin-
+  TempDirectory: /tmp/
+  HostProcessName: Tentacle
+  PID: 135987
+2025-12-24 16:07:00.5978  135987      1  INFO  Changing log folder from Octopus/Logs to /etc/octopus/PerFin-Polling/Logs
+2025-12-24 16:21:16.1799  137924      1  INFO  Tentacle version 8.3.3455 (8.3.3455) instance PerFin-Polling
+2025-12-24 16:21:16.2249  137924      1  INFO  Environment Information:
+  OperatingSystem: Ubuntu 22.04.5 LTS
+  OsBitVersion: x64
+  Is64BitProcess: True
+  CurrentUser: root
+  MachineName: DESKTOP-1FR4MTM
+  ProcessorCount: 12
+  CurrentDirectory: /home/idgstone/myfin-
+  TempDirectory: /tmp/
+  HostProcessName: Tentacle
+  PID: 137924
+2025-12-24 16:21:16.7800  137924      1  INFO  Changing log folder from Octopus/Logs to /etc/octopus/PerFin-Polling/Logs
+2025-12-24 16:21:17.3725  137942      1  INFO  Tentacle version 8.3.3455 (8.3.3455) instance PerFin-Polling
+2025-12-24 16:21:17.3913  137942      1  INFO  Environment Information:
+  OperatingSystem: Ubuntu 22.04.5 LTS
+  OsBitVersion: x64
+  Is64BitProcess: True
+  CurrentUser: root
+  MachineName: DESKTOP-1FR4MTM
+  ProcessorCount: 12
+  CurrentDirectory: /home/idgstone/myfin-
+  TempDirectory: /tmp/
+  HostProcessName: Tentacle
+  PID: 137942
+2025-12-24 16:21:17.5857  137942      1  INFO  Changing log folder from Octopus/Logs to /etc/octopus/PerFin-Polling/Logs
+2025-12-24 16:21:18.2483  137960      1  INFO  Tentacle version 8.3.3455 (8.3.3455) instance PerFin-Polling
+2025-12-24 16:21:18.2662  137960      1  INFO  Environment Information:
+  OperatingSystem: Ubuntu 22.04.5 LTS
+  OsBitVersion: x64
+  Is64BitProcess: True
+  CurrentUser: root
+  MachineName: DESKTOP-1FR4MTM
+  ProcessorCount: 12
+  CurrentDirectory: /home/idgstone/myfin-
+  TempDirectory: /tmp/
+  HostProcessName: Tentacle
+  PID: 137960
+2025-12-24 16:21:18.4442  137960      1  INFO  Changing log folder from Octopus/Logs to /etc/octopus/PerFin-Polling/Logs
+2025-12-24 16:21:19.0260  137980      1  INFO  Tentacle version 8.3.3455 (8.3.3455) instance PerFin-Polling
+2025-12-24 16:21:19.0260  137980      1  INFO  Environment Information:
+  OperatingSystem: Ubuntu 22.04.5 LTS
+  OsBitVersion: x64
+  Is64BitProcess: True
+  CurrentUser: root
+  MachineName: DESKTOP-1FR4MTM
+  ProcessorCount: 12
+  CurrentDirectory: /home/idgstone/myfin-
+  TempDirectory: /tmp/
+  HostProcessName: Tentacle
+  PID: 137980
+2025-12-24 16:21:19.1843  137980      1  INFO  Changing log folder from Octopus/Logs to /etc/octopus/PerFin-Polling/Logs
+2025-12-24 16:21:24.6778  138000      1  INFO  Tentacle version 8.3.3455 (8.3.3455) instance PerFin-Polling
+2025-12-24 16:21:24.6963  138000      1  INFO  Environment Information:
+  OperatingSystem: Ubuntu 22.04.5 LTS
+  OsBitVersion: x64
+  Is64BitProcess: True
+  CurrentUser: root
+  MachineName: DESKTOP-1FR4MTM
+  ProcessorCount: 12
+  CurrentDirectory: /home/idgstone/myfin-
+  TempDirectory: /tmp/
+  HostProcessName: Tentacle
+  PID: 138000
+2025-12-24 16:21:24.8312  138000      1  INFO  Changing log folder from Octopus/Logs to /etc/octopus/PerFin-Polling/Logs
